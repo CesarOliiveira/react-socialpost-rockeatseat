@@ -111,8 +111,6 @@
     font-weight: bold;
     cursor: pointer;
     transition: background .1s;
-
-    
 }
 .commentForm button[type="submit"]:hover {
     background: var(--green-300);
