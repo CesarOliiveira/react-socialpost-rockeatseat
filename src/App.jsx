@@ -56,6 +56,7 @@ function App() {
                   key={post.id} 
                   author={post.author}
                   publishedAt={post.publishedAt}
+                  content={post.content}
                 />
               )
             })}
