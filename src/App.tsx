@@ -18,6 +18,11 @@ function App() {
               author="Diogo" 
               content="Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, voluptatum eaque delectus mollitia voluptatem veniam. Nulla natus odit facere dolor, asperiores voluptates magnam deserunt aliquid autem debitis, dolore eligendi fuga!"
             />
+
+            <Post 
+              author="Diogo" 
+              content="Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, voluptatum eaque delectus mollitia voluptatem veniam. Nulla natus odit facere dolor, asperiores voluptates magnam deserunt aliquid autem debitis, dolore eligendi fuga!"
+            />
           </main>
       </div>
     </>

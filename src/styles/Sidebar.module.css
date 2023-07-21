@@ -63,7 +63,7 @@
 
     gap: 0.45rem;
 
-    transition: color .4s, background-color .2s;
+    transition: color .2s, background-color .1s;
 }
 
 .sidebar footer a:hover {
